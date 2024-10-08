@@ -1,14 +1,14 @@
 # Features this App
 
-Nama Aplikasi :
+Nama Aplikasi :Absensi Pegawai
 
-Kelompok :
+Kelompok :Disduk
 
 ## Pengguna
 
 1. Admin
 2. Pegawai
-3. Siswa (users)
+
 
 ## Menu
 
@@ -17,9 +17,11 @@ Kelompok :
 - login
 - user
 - users
-- pegawai
-- seminar
-- nilai
+- mengelola data pegawai
+- tambah data
+- pengajuan izin
+- jumlah pegawai
+- perubahan data
 - logout
 - backup db
 
@@ -27,16 +29,13 @@ Kelompok :
 
 - login
 - user
+- memasukan data 
 - profile (ubah username & password)
-- seminar
-- nilai
+- mengubah data pribadi
+- pengajuan izin
 - Logout
 
-**Untuk Pengguna 3(Users/Siswa)**
 
-- login
-- daftar
-- seminar
 
 ## Fitur
 
@@ -59,17 +58,9 @@ Kelompok :
 - user-ubah.php 1.3.1 (V)
 - user-perbaharui.php 1.3.2 (P)
 
-4. Seminar
-
-- seminar-tampil.php (V)
-- seminar-detail.php (V)
-- seminar-print.php (V)
-- seminar-aktivasi.php (V)
-- seminar-aktifkan.php (P)
-
-5. Nilai
-
-- nilai-tampil.php (V)
+4. perubahan data 
+- user-tambah.php (v)
+- user-hapus.php (p)
 
 6. Logout
 
